@@ -1,0 +1,91 @@
+/* 폰트설정 fonts/여기서 woff2, woff 폰트소스 넣어두고 폰트페이스 설정하기*/
+/* pretendard font */
+@font-face {
+    font-family : 'Pretendard100';
+    src : url('../fonts/Pretendard/Pretendard-Thin.woff2') format(woff2);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard200';
+    src : url('../fonts/Pretendard/Pretendard-ExtraLight.woff2') format(woff2);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard300';
+    src : url('../fonts/Pretendard/Pretendard-Light.woff2') format(woff2);
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard400';
+    src : url('../fonts/Pretendard/Pretendard-Regular.woff2') format(woff2);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard500';
+    src : url('../fonts/Pretendard/Pretendard-Medium.woff2') format(woff2);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard600';
+    src : url('../fonts/Pretendard/Pretendard-SemiBold.woff2') format(woff2);
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard700';
+    src : url('../fonts/Pretendard/Pretendard-Bold.woff2') format(woff2);
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard800';
+    src : url('../fonts/Pretendard/Pretendard-ExtraBold.woff2') format(woff2);
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family : 'Pretendard900';
+    src : url('../fonts/Pretendard/Pretendard-Black.woff2') format(woff2);
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'LineSeed100';
+    src : url('../fonts/Line-seed/LINESeedKR-Th.woff2') format(woff2);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'LineSeed400';
+    src : url('../fonts/Line-seed/LINESeedKR-Rg.woff2') format(woff2);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'LineSeed700';
+    src : url('../fonts/Line-seed/LINESeedKR-Bd.woff2') format(woff2);
+    font-weight: 700;
+    font-style: normal;
+}
+:root{
+    /* font-style */
+--LineSeed100 : 'LineSeed100';
+--LineSeed400 : 'LineSeed400';
+--LineSeed700 : 'LineSeed700';
+   /* font-size */
+    /* color */
+}
+
+#root{
+    font-family: 'Pretendard400';
+}
+.font_bold{
+    font-family: 'Pretendard700';
+}
+
+/* 기본공통클래스 */
