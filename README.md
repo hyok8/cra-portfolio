@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# CRA로 제작된 프로트앤드 개인작
+
+# 사용 모듈
+"axios": "^1.8.3",
+"bootstrap": "^5.3.3",
+"react": "^19.0.0",
+"react-bootstrap": "^2.10.9",
+"react-dom": "^19.0.0",
+"react-router-dom": "^7.3.0",
+"react-scripts": "5.0.1",
+"sass": "^1.86.0",
+"swiper": "^11.2.5",
+"web-vitals": "^2.1.4"
+>>>>>>> 3442af92eea947a8caf72a64f0b50f75d61211c2
